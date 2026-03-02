@@ -9,7 +9,7 @@ Topicos cobrados neste exercicio:
 - destructuring de objetos e arrays
 - spread/rest
 - let/const e escopo
-- manipulacao de arrays e objetos com map/filter/reduce
+- manipulacao de arrays e objetos com map/filter/reduce  
 
 ## Objetivo
 Implementar funcoes utilitarias para processar dados de pedidos e gerar informacoes de negocio de forma clara, reutilizavel e sem mutacao desnecessaria.
@@ -32,12 +32,11 @@ Este exercicio treina exatamente esse fluxo:
 ```text
 Aula3/
   README.md
-  starter/
-    script.js
+  script.js
 ```
 
 ## Como rodar
-1. Abra `starter/script.js`.
+1. Abra `script.js`.
 2. Implemente os `TODO`.
 3. Execute com `node script.js`.
 
