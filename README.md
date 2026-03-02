@@ -1,7 +1,7 @@
 # Exercicio - Aula 3
 
 ## Conteudo da aula
-Encontro 2 - JavaScript moderno (ES6+) e boas praticas
+JavaScript moderno (ES6+) e boas praticas
 
 Topicos cobrados neste exercicio:
 - funcoes (declaracao e arrow functions)
@@ -39,7 +39,7 @@ Aula3/
 ## Como rodar
 1. Abra `starter/script.js`.
 2. Implemente os `TODO`.
-3. Execute com `node script.js` dentro da pasta `starter`.
+3. Execute com `node script.js`.
 
 ## Exercicios guiados (roteiro)
 
